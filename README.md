@@ -1,11 +1,11 @@
-# Nichi — Learn Japanese, Naturally 🌸
+# Niichi — Learn Japanese, Naturally 🌸
 
 > **This is a public overview repository.** It showcases what the app does, its
 > feature set, and its user interface. It intentionally contains **no source
 > code, API keys, database schema, or other proprietary material** — only a
 > high-level description and screenshots.
 
-Nichi is a mobile app for learning Japanese through AI-powered conversation,
+Niichi is a mobile app for learning Japanese through AI-powered conversation,
 voice practice, spaced-repetition vocabulary, and a structured, JLPT-aligned
 curriculum (N5 → N1). It's designed to feel calm and conversational rather than
 gamey-for-the-sake-of-it, while still keeping you motivated with streaks, XP,
@@ -71,7 +71,7 @@ Terms of Service, Data Safety, and in-app Support.
 | ![Words](screenshots/04-words.png) | ![Sensei](screenshots/05-sensei.png) | ![Voice](screenshots/06-voice.png) |
 
 > Some early screenshots show the app's previous name ("LearnJ") — it has since
-> been rebranded to **Nichi**.
+> been rebranded to **Niichi**.
 
 ---
 
