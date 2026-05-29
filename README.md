@@ -13,54 +13,54 @@ and daily challenges.
 
 ---
 
-## ✨ What it does
+##  What it does
 
-### 🗣️ AI Sensei — Conversation Practice
+###  AI Sensei — Conversation Practice
 Practice real conversations with an AI Japanese tutor across guided topics —
 *Introduce Yourself*, *Order at a Restaurant*, *Ask for Directions*, *Talk About
 Hobbies*, *Shopping*, and more. Each topic adapts to your level and keeps the
 dialogue natural.
 
-### 🎤 Voice Practice
+###  Voice Practice
 Hear native-style pronunciation, then hold to speak and get instant feedback on
 your own pronunciation — with attempt count, level, and an accuracy score so you
 can track improvement phrase by phrase.
 
-### 🎧 Shadowing
+###  Shadowing
 A dedicated shadowing player for the classic listen-and-repeat technique to
 build natural rhythm, intonation, and fluency.
 
-### 📚 Vocabulary + Spaced Repetition (SRS)
+###  Vocabulary + Spaced Repetition (SRS)
 A searchable vocabulary library organized by JLPT level and category
 (Greetings, Numbers, Food, and more). Words surface for review using a
 spaced-repetition schedule, with tap-to-hear audio for every entry.
 
-### 🎯 Structured Lessons
+###  Structured Lessons
 A JLPT-aligned curriculum from absolute beginner to advanced, broken into short,
 focused lessons (e.g. *Restaurant Ordering*) that fit into a few minutes a day.
 
-### 💼 Business Japanese Path
+###  Business Japanese Path
 A dedicated track for learners who need practical, workplace-ready Japanese.
 
-### 📈 Progress & Motivation
+###  Progress & Motivation
 - Daily streaks and a "one lesson keeps the streak alive" daily nudge
 - XP, level-ups, and celebration moments
 - Daily challenges (e.g. *Chat with Sensei — send 3 messages*)
 - A clear "Your Journey" map across JLPT levels
 - Unlockable cosmetics and personal study goals
 
-### 🚀 Personalized Onboarding
+###  Personalized Onboarding
 A short, friendly onboarding flow: set your goal, honestly pick your current
 level, make a small commitment, and receive a personalized study plan before you
 begin.
 
-### 👤 Profile, Settings & Privacy
+###  Profile, Settings & Privacy
 Account profile, study preferences, and full legal coverage — Privacy Policy,
 Terms of Service, Data Safety, and in-app Support.
 
 ---
 
-## 📱 Screenshots
+##  Screenshots
 
 ### Getting started
 | Welcome | Sign In | Why are you learning? | Your level |
@@ -89,7 +89,7 @@ Terms of Service, Data Safety, and in-app Support.
 
 ---
 
-## 🧱 Tech Stack (high level)
+##  Tech Stack (high level)
 
 - **Mobile:** React Native + Expo, TypeScript
 - **Navigation:** React Navigation
@@ -101,7 +101,7 @@ Terms of Service, Data Safety, and in-app Support.
 
 ---
 
-## 🎨 Design
+## Design
 
 A clean, minimalist interface built around a calming cyan accent and a sakura
 (cherry-blossom) motif. The UI favors generous whitespace, large readable
@@ -110,7 +110,7 @@ learning.
 
 ---
 
-## ℹ️ About this repo
+##  About this repo
 
 This repository is a **showcase / portfolio overview only**. The application's
 source code, configuration, credentials, and backend are private and are **not**
