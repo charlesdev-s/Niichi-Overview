@@ -1,0 +1,12 @@
+# This repo is overview-only. Never commit source, secrets, or build artifacts.
+.env
+.env.*
+*.p8
+*.keystore
+*.jks
+credentials.json
+secrets/
+node_modules/
+src/
+android/
+ios/
