@@ -62,16 +62,30 @@ Terms of Service, Data Safety, and in-app Support.
 
 ## 📱 Screenshots
 
-| Welcome | Home | Lessons |
-|:---:|:---:|:---:|
-| ![Welcome](screenshots/01-welcome.png) | ![Home](screenshots/02-home.png) | ![Lesson](screenshots/03-lesson.png) |
+### Getting started
+| Welcome | Sign In | Why are you learning? | Your level |
+|:---:|:---:|:---:|:---:|
+| ![Welcome](screenshots/01-welcome.png) | ![Sign In](screenshots/02-signin.png) | ![Why](screenshots/03-why-learning.png) | ![Level](screenshots/04-your-level.png) |
 
-| Vocabulary | AI Sensei | Voice Practice |
-|:---:|:---:|:---:|
-| ![Words](screenshots/04-words.png) | ![Sensei](screenshots/05-sensei.png) | ![Voice](screenshots/06-voice.png) |
+### Personalized onboarding
+| Daily commitment | Building your plan | Your learning path | All set! |
+|:---:|:---:|:---:|:---:|
+| ![Commitment](screenshots/05-daily-commitment.png) | ![Plan](screenshots/06-building-plan.png) | ![Path](screenshots/07-learning-path.png) | ![Done](screenshots/08-all-set.png) |
 
-> Some early screenshots show the app's previous name ("LearnJ") — it has since
-> been rebranded to **Niichi**.
+### Home & daily flow
+| Home | Dashboard | Lesson (Menu) | Lesson (Order) |
+|:---:|:---:|:---:|:---:|
+| ![Home](screenshots/09-home.png) | ![Dashboard](screenshots/10-home-dashboard.png) | ![Menu](screenshots/11-shadowing-menu.png) | ![Order](screenshots/12-shadowing-order.png) |
+
+### Learning features
+| Vocabulary | AI Sensei | Voice Practice | Your turn |
+|:---:|:---:|:---:|:---:|
+| ![Vocab](screenshots/13-vocabulary.png) | ![Sensei](screenshots/14-sensei-topics.png) | ![Voice](screenshots/18-voice-practice.png) | ![Turn](screenshots/19-voice-your-turn.png) |
+
+### Progress & account
+| Progress | Settings | Profile |
+|:---:|:---:|:---:|
+| ![Progress](screenshots/15-progress.png) | ![Settings](screenshots/16-settings.png) | ![Profile](screenshots/17-profile.png) |
 
 ---
 
